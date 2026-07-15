@@ -2,4 +2,6 @@
 - Cloudflare 接管 DNS
 - GitHub Pages
 - HTTPS
-- 自定义域名-2026年7月15日
+- 自定义域名
+- 新建隧道并安装win
+- 安装caddy以一个子域名管理多页面-2026年7月15日
