@@ -1,0 +1,1 @@
+console.log('Wuzzle Platform v1.0');
